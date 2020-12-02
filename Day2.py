@@ -51,7 +51,8 @@ for i in file:
     hyphn = False
     num1 = 0
     num2 = 0
-print(count)
+print(count1)
+print(count2)
 # Count is 515, got it right lfg that's part 1
 
 
